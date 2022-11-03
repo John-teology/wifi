@@ -107,7 +107,7 @@ stack-data==0.2.0
 sympy==1.10.1
 tenacity==8.0.1
 pypiwin32==223
-pywin32==304
+pywin32==303
 tinycss2==1.1.1
 tomli==2.0.1
 tornado==6.1
