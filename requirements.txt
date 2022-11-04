@@ -1,4 +1,4 @@
-﻿﻿alabaster==0.7.12
+alabaster==0.7.12
 pypiwin32==223; sys_platform == "win32"
 pywin32==303 ; sys_platform == "win32"
 asgiref==3.5.0
