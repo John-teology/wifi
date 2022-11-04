@@ -1,6 +1,6 @@
 alabaster==0.7.12
-pypiwin32==223; sys_platform == "win64"
-pywin32==303 ; sys_platform == "win64"
+pypiwin32==223; platform_system == "Windows"
+pywin32==303; platform_system == "Windows"
 asgiref==3.5.0
 asttokens==2.0.5
 atomicwrites==1.4.0
